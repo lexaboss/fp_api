@@ -209,7 +209,7 @@ class Client
    	*/
   	public function getSessionCookieName()
   	{
-    	return 'fbs_' . CLIENT_NAME . ' . $this->_credentials->getAppId();
+    	return 'fbs_' . CLIENT_NAME . '_' . $this->_credentials->getAppId();
   	}
 
   	/**
