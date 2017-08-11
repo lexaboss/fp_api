@@ -1,2 +1,2 @@
-# fp_api
-Facebook API
+# Facebook API
+Facebook API Client v3.2.2
